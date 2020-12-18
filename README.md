@@ -3,13 +3,6 @@
 
 ## I'm a PCBMaker, Arduino Devloper, and Programmer IoT!!
 
-- 🔭 Receive arduino programming and PCB design services: [come on joint to instagram][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate arduino project with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play piano / guitar
-
-
 ### PCB Maker and Design:
 
 - Eagle Autodeds minimal version 9.0.0
@@ -70,7 +63,6 @@
 
 [link]: #
 [website]: http://indothings.rf.gd/
-[course]: http://instagram.com/duinogram
 [whatsapp]: https://api.whatsapp.com/send?phone=6281232492945&text=Hai
 [youtube]: https://youtube.com/Duino_Elektronik
 [instagram]: https://instagram.com/tommymandalaputra
