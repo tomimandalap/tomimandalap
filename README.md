@@ -1,4 +1,4 @@
-### Hi there, I'm Tomi Mandala Putra [Duino Elektronik][website] 👋
+### Hi there, I'm Tomi Mandala Putra [indothings][website] 👋
 
 
 ## I'm a PCBMaker, Arduino Devloper, and Programmer IoT!!
@@ -43,12 +43,12 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][link]
 [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />][link]
 [<img align="left" alt="AdobeXD" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" />][link]
+[<img align="left" alt="Posman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />][link]
 
 <br />
 <br />
 
 ---
-
 
 ### 📺 Latest YouTube Videos
 
