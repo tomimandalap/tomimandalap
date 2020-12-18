@@ -5,7 +5,7 @@
 
 ### PCB Maker and Design:
 
-- Eagle Autodeds minimal version 9.0.0
+- Eagle Autodeks min version 9.0.0
 - Proteus 8.6
 - Sketchup Pro 2019
 - CorelDraw
