@@ -2,11 +2,22 @@
 
 ## I'm a PCBMaker, Arduino Devloper, and Programmer IoT!!
 
-- 🔭 I just launched my first course: [Become A Duino Elektronik][course]!
+- 🔭 Receive arduino programming and PCB design services: [come on joint to instagram][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate arduino project with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play piano / guitar
+
+### PCB Maker and Design:
+
+- Eagle Autodeds minimal version 9.0.0
+- Proteus 8.6
+- Sketchup Pro 2019
+- CorelDraw
+- Fritzing
+
+### The results of my work
+
 
 ### Connect with me:
 
@@ -26,15 +37,9 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][link]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][link]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][link]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][link]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][link]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][link]
-
-<br />
-
-### PCB Maker - Tools:
-
-[<img align="left" alt="Proteus" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/proteus/proteus.png" />][link]
+[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />][link]
 
 <br />
 <br />
