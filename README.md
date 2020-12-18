@@ -62,16 +62,7 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/tomimandalap/DuElektronik/issues) in [Duino Elektronik/tomimandalap](https://github.com/tomimandalap)
-<!--END_SECTION:activity-->
-
-</details>
-
-<br />
+### Status
 
 [![tomi github stats](https://github-readme-stats.vercel.app/api?username=tomimandalap&show_icons=true&theme=radical)](https://github.com/tomimandalap/github-readme-stats)
 
