@@ -71,6 +71,10 @@
 
 </details>
 
+<br />
+
+[![tomi github stats](https://github-readme-stats.vercel.app/api?username=tomimandalap)](https://github.com/tomimandalap/github-readme-stats)
+
 [link]: #
 [website]: http://indothings.rf.gd/
 [course]: http://instagram.com/duinogram
