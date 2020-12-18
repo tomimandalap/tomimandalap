@@ -1,5 +1,6 @@
 ### Hi there, I'm Tomi Mandala Putra [Duino Elektronik][website] 👋
 
+
 ## I'm a PCBMaker, Arduino Devloper, and Programmer IoT!!
 
 - 🔭 Receive arduino programming and PCB design services: [come on joint to instagram][course]!
@@ -8,6 +9,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play piano / guitar
 
+
 ### PCB Maker and Design:
 
 - Eagle Autodeds minimal version 9.0.0
@@ -15,8 +17,6 @@
 - Sketchup Pro 2019
 - CorelDraw
 - Fritzing
-
-### The results of my work
 
 
 ### Connect with me:
@@ -27,6 +27,7 @@
 [<img align="left" alt="Linked | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="IG | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
+
 
 ### Languages and Tools:
 [<img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />][link]
@@ -45,6 +46,7 @@
 <br />
 
 ---
+
 
 ### 📺 Latest YouTube Videos
 
