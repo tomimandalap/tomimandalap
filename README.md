@@ -24,7 +24,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to make a Discord Input in HTML & CSS | Micro-Interaction & JavaScript Validation](https://www.youtube.com/watch?v=3tG1jUQbuSI)
+- [How to make readme on gitHub](https://youtu.be/Y1z7_GfEPiE)
 - [How to make PCB on software EAGLE Autodesk](https://youtu.be/MQyOD__GC08)
 - [How to make website monitoring on weebly.com and thingpseak.com](https://youtu.be/VdQqHc4eEz4)
 - [Update status on thingspeak.com using MIT App Inventor 2](https://youtu.be/gJw0CBnaNas)
