@@ -73,7 +73,7 @@
 
 <br />
 
-[![tomi github stats](https://github-readme-stats.vercel.app/api?username=tomimandalap)](https://github.com/tomimandalap/github-readme-stats)
+[![tomi github stats](https://github-readme-stats.vercel.app/api?username=tomimandalap&show_icons=true&theme=radical)](https://github.com/tomimandalap/github-readme-stats)
 
 [link]: #
 [website]: http://indothings.rf.gd/
