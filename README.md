@@ -1,7 +1,7 @@
-## Hi there, I'm Tomi Mandala Putra 👋
+# Hi there, I'm Tomi Mandala Putra 👋
 
 
-### I'm a PCBMaker, Arduino Devloper, and Programmer IoT!!
+## I'm a PCBMaker, Arduino Devloper, and Programmer IoT!!
 
 ### PCB Maker and Design:
 
@@ -62,7 +62,7 @@
 [![tomi github stats](https://github-readme-stats.vercel.app/api?username=tomimandalap&show_icons=true&theme=radical)](https://github.com/tomimandalap/github-readme-stats)
 
 [link]: #
-[website]: http://indothings.rf.gd/
+[website]: http://tomtom.rf.gd/
 [whatsapp]: https://api.whatsapp.com/send?phone=6281232492945&text=Hai
 [youtube]: https://youtube.com/Duino_Elektronik
 [instagram]: https://instagram.com/tommymandalaputra
