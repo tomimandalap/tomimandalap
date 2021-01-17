@@ -1,7 +1,7 @@
 # Hi there, I'm Tomi Mandala Putra 👋
 
 
-## I'm a PCBMaker, Arduino Devloper, and Programmer!!
+## I'm a PCBMaker
 
 ### PCB Maker and Design:
 
