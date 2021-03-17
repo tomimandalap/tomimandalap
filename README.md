@@ -1,7 +1,15 @@
 # Hi there, I'm Tomi Mandala Putra 👋
 
 
-## I'm a PCBMaker
+## I'm Junior Developer and PCB Maker
+
+### Fullstack Developer
+- VueJS
+- ReactJS
+- Bootstrap
+- Axios
+- NodeJS
+- ExpressJS
 
 ### PCB Maker and Design:
 
