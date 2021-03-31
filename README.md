@@ -54,4 +54,4 @@
 [whatsapp]: https://api.whatsapp.com/send?phone=6281232492945&text=Hai
 [youtube]: https://youtube.com/Duino_Elektronik
 [instagram]: https://instagram.com/duinogram
-[linkedin]: https://www.linkedin.com/in/tomimandalap
+[linkedin]: https://www.linkedin.com/in/tomimandalaputra
