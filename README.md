@@ -53,5 +53,5 @@
 [website]: http://tomtom.rf.gd/
 [whatsapp]: https://api.whatsapp.com/send?phone=6281232492945&text=Hai
 [youtube]: https://youtube.com/Duino_Elektronik
-[instagram]: https://instagram.com/tommymandalaputra
-[linkedin]: https://www.linkedin.com/in/tomi-mandala-putra-033309189
+[instagram]: https://instagram.com/duinogram
+[linkedin]: https://www.linkedin.com/in/tomimandalap
