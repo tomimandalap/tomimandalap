@@ -1,24 +1,12 @@
 # Hi there, I'm Tomi Mandala Putra 👋
 
-
-## I'm Junior Developer and PCB Maker
-
-### Fullstack Developer
-- VueJS
-- ReactJS
+## I'm Junior Frontend Developer
+- VueJS / NuxtJS
+- Vuetify
 - Bootstrap
-- Axios
-- NodeJS
-- ExpressJS
-- etc.
-
-### PCB Maker and Design:
-
-- Eagle Autodeks min version 9.0.0
-- Proteus 8.6
-- Sketchup Pro 2019
-- CorelDraw
-- Fritzing
+- HTML
+- CSS
+- JS
 
 
 ### Connect with me:
