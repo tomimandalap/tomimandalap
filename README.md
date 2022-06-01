@@ -1,9 +1,10 @@
 # Hi there, I'm Tomi Mandala Putra 👋
 
-## I'm Junior Frontend Developer
-- VueJS / NuxtJS
+## I'm Frontend Developer
+- VueJS / NuxtJS 
 - Vuetify
 - Bootstrap
+- Taildwind
 - HTML
 - CSS
 - JS
