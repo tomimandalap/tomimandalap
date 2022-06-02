@@ -4,7 +4,7 @@
 - VueJS / NuxtJS 
 - Vuetify
 - Bootstrap
-- Taildwind
+- Tailwind
 - HTML
 - CSS
 - JS
