@@ -17,6 +17,7 @@
 [<img align="left" alt="WA | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 [<img align="left" alt="Linked | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="IG | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Email | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][emailme]
 <br />
 
 ---
@@ -45,3 +46,4 @@
 [youtube]: https://youtube.com/Duino_Elektronik
 [instagram]: https://instagram.com/duinogram
 [linkedin]: https://www.linkedin.com/in/tomimandalaputra
+[emailme]: mailto:tommymandalaputra@gmail.com
