@@ -41,9 +41,9 @@
 [![tomi github stats](https://github-readme-stats.vercel.app/api?username=tomimandalap&show_icons=true&theme=radical)](https://github.com/tomimandalap/github-readme-stats)
 
 [link]: #
-[website]: http://tomtom.rf.gd/
+[website]: https://twincodeid.netlify.app/
 [whatsapp]: https://api.whatsapp.com/send?phone=6281232492945&text=Hai
-[youtube]: https://youtube.com/Duino_Elektronik
+[youtube]: https://youtube.com/programmer-kecil
 [instagram]: https://instagram.com/duinogram
 [linkedin]: https://www.linkedin.com/in/tomimandalaputra
 [emailme]: mailto:tommymandalaputra@gmail.com
