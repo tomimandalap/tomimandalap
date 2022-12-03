@@ -41,7 +41,7 @@
 [![tomi github stats](https://github-readme-stats.vercel.app/api?username=tomimandalap&show_icons=true&theme=radical)](https://github.com/tomimandalap/github-readme-stats)
 
 [link]: #
-[website]: https://twincodeid.netlify.app/
+[website]: https://tomimandalap.github.io/my-portfolio
 [whatsapp]: https://api.whatsapp.com/send?phone=6281232492945&text=Hai
 [youtube]: https://youtube.com/programmer-kecil
 [instagram]: https://instagram.com/duinogram
