@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙌 Hello, I'm Tomi and I'm a Frontend website developer & UI Design.<br><br>🙋 Do yo Interested?<br>🤝 I'am always open to discussing producr work or partnership opportunities.
+🙌 Hello, I'm Tomi and I'm a Fullstack website developer & UI Design.<br><br>🙋 Do yo Interested?<br>🤝 I'am always open to discussing producr work or partnership opportunities.
 
 
 ## 🌐 Socials:
