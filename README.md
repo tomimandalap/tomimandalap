@@ -4,6 +4,9 @@
   <h3 align='left'>Hello, I'm Tomi and I'm a Fullstack website developer</h3>
   <p align="left">I'm a software engineer who specializes in building (and sometimes designing) great digital experiences. Currently, I am focusing on creating website products at Privy.</p>
   <p align='right'>
+    <a href="https://tomtom-dev.site/" target="_blank">
+      <img src="https://img.shields.io/badge/WEBSITE%20-%23559947.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/>
+    </a>
     <a href="https://www.youtube.com/@tomdevelop" target="_blank">
       <img src="https://img.shields.io/badge/YOUTUBE%20-%23DF2E38.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
     </a>
